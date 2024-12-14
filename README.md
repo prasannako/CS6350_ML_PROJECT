@@ -8,4 +8,5 @@ git clone --recurse-submodules https://github.com/nasa/bingo.git
 cd bingo  
 git checkout smc  
 
--> copy the script smc_script.py to bingo and run the script
+-> copy the script smc_script.py to bingo and run the script  
+-> Note: Download the data and paste the folder in the directory from which the code runs
